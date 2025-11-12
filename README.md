@@ -27,6 +27,10 @@ ssh -T git@name.ru(com)
 clip < id_ed.
 Вставить в github.
 ```
+
+
+
+my text
 5. Config Настройка
 ```
 Host name.ru(com)
