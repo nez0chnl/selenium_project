@@ -34,5 +34,4 @@ Host name.ru(com)
 	User name
 	IdentityFile ~/.ssh/namefile
 	IdentitiesOnly=yes
-
-test github ijrgirjgrg
+```
